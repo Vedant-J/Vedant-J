@@ -1,5 +1,3 @@
-<!--
-**Vedant-J/Vedant-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +16,6 @@ Here are some ideas to get you started:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant-J&show_icons=true&hide=contribs,issues&count_private=true)
 
--->
+<!--
+**Vedant-J/Vedant-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
