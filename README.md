@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/vedant-joshi-2926a0124/)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vedant-joshi-2926a0124/)
 
 ## GitHub Stats
 
